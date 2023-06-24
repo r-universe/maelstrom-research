@@ -8,3 +8,8 @@
 	url = https://github.com/maelstrom-research/madshapr
 	shallow = true
 	registered = true
+[submodule "mlstrOpalr"]
+	path = mlstrOpalr
+	url = https://github.com/maelstrom-research/mlstropalr
+	shallow = true
+	registered = true
