@@ -5,3 +5,6 @@
 [submodule "madshapR"]
 	path = madshapR
 	url = https://github.com/maelstrom-research/madshapr
+[submodule "mlstrOpalr"]
+	path = mlstrOpalr
+	url = https://github.com/maelstrom-research/mlstropalr
